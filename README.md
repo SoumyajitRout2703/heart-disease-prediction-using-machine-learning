@@ -1,5 +1,3 @@
-
-
 Heart Disease Prediction Using Machine Learning Algorithms
 
 Project Overview
@@ -36,8 +34,6 @@ Decision Tree
 Random Forest
 
 Support Vector Machine (SVM)
-
-XGBoost (optional for advanced analysis)
 
 
 Installation
